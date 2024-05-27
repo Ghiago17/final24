@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "id": "12345678",
+            "name": "Ivan Narvaez",
+            "username": "inarvaez",
+            "password": "123",
+            "email": "ivan.narvaez@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "1291289",
+            "name": "Sandra Lagares",
+            "username": "slagares",
+            "password": "12345678",
+            "email": "knarvaez@test.com",
+            "role": "Vendedor"
+        },
+        {
+            "id": "987456",
+            "name": "Dario Mejia2",
+            "username": "dmejia",
+            "password": "123",
+            "email": "dmejia@test.com",
+            "role": "Vendedor"
+        },
+        {
+            "id": "890811",
+            "name": "Johan Mejia",
+            "username": "jmejia",
+            "password": "12345678",
+            "email": "jmejia@gmail.com",
+            "role": "Vendedor"
+        },
+        {
+            "id": "198291829",
+            "name": "Juan Castro",
+            "username": "jcastro",
+            "password": "123",
+            "email": "jcastro@gmail.com",
+            "role": "Administrador"
+        },
+        {
+            "id": "83846",
+            "name": "Javier Luna",
+            "username": "jluna",
+            "password": "123",
+            "email": "jluna@unitecnar.edu.co",
+            "role": "Vendedor"
+        },
+        {
+            "id": "1042582171",
+            "name": "jayz",
+            "username": "ghiago",
+            "password": "1234",
+            "email": "jayzvalencia10.2@gmail.com",
+            "role": "Administrador"
+        }
+    ]
+}
